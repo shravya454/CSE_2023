@@ -4,7 +4,6 @@ Projects built by CSE Batch 2023–2027 during the fourth year. Each folder is a
 
 When you add a project, append a row here in the same format.
 
-| Project                                   | USN                                            | Author                                                  | Repository             |
-| ----------------------------------------- | ---------------------------------------------- | ------------------------------------------------------- | ---------------------- |
-| AI-Powered Sign Language to Text & Speech | 4VP23CS095, 4VP23CS083, 4VP23CS085, 4VP23CS096 | Shravya K V, Samanvi I, Sanjana Hegde, Shravya N Shetty | https://github.com/shravya454/Sign_Language_To_Text_-_Speech.git |
-                                         
+| Project | USN | Author | Repository |
+| --- | --- | --- | --- |
+| AI-Powered Sign Language to Text & Speech | 4VP23CS095<br>4VP23CS083<br>4VP23CS085<br>4VP23CS096 | Shravya K V<br>Samanvi I<br>Sanjana Hegde<br>Shravya N Shetty | https://github.com/shravya454/Sign_Language_To_Text_-_Speech |
